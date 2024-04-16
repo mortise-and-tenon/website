@@ -57,7 +57,13 @@ const config: Config = {
     colorMode: {
       disableSwitch: true,
     },
-    image: "img/docusaurus-social-card.jpg",
+    metadata: [
+      {
+        name: "keywords",
+        content:
+          "micronaut,cloudnative,microservice,graalvm,nativeimage,docker,k8s,微服务,云计算,云原生框架,java,快速框架,rbac框架,本地编译",
+      },
+    ],
     navbar: {
       title: "卯榫 MortNon",
       logo: {
