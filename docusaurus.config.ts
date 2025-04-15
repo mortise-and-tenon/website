@@ -78,18 +78,8 @@ const config: Config = {
           label: "教程",
         },
         {
-          href: "https://docs.bookhub.tech",
-          label: "BookHub",
-          position: "right",
-        },
-        {
-          href: "https://gitee.com/mortise-and-tenon",
-          label: "Gitee",
-          position: "right",
-        },
-        {
-          href: "https://github.com/mortise-and-tenon",
-          label: "GitHub",
+          href: "https://joint.mortnon.tech",
+          label: "JointSearch",
           position: "right",
         },
         {
@@ -120,15 +110,6 @@ const config: Config = {
             {
               label: "Gitee",
               href: "https://gitee.com/mortise-and-tenon",
-            },
-          ],
-        },
-        {
-          title: "博客",
-          items: [
-            {
-              label: "阿呜的边城",
-              href: "https://www.luansheng.fun",
             },
           ],
         },
